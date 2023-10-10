@@ -1,4 +1,4 @@
 Testing
-java
-.NET
+partha
+ET
 hi
